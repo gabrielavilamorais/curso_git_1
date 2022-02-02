@@ -1,5 +1,0 @@
-Testando atualização do 
-<<<<<<< HEAD
-=======
-ababababagaga
->>>>>>> teste_criacao2
