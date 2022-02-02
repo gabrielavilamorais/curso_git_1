@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 testando atualização do 
+=======
+testando atualização do
+a
+>>>>>>> teste_criacao
